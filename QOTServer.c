@@ -39,7 +39,7 @@ void echo( int sd ) {
       } else {
         printf("GOT %d BYTES\n",n);
         /* Got something, just send it back */
-	char* quote ="Our greatest Weakness lies in Giving up.\n The most certain way to sucees is always to try just one more time\n\n \t -Thomas Alva Edison\n";
+	char* quote ="Sandy: I want you to kill every gopher on the course! \nCarl Spackler: Check me if I'm wrong Sandy, but if I kill all the golfers, they're gonna lock me up and throw away the key...\nSandy: Gophers, ya great git! Not golfers! The little brown furry rodents!\nCarl Spackler: We can do that... we don't even have to have a reason.";
         sendto(sd,quote,strlen(quote),0,(struct sockaddr *)&remote,len);
       }
     }
