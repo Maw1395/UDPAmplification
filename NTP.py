@@ -5,7 +5,7 @@ import sys, os,time
 def main():
 	
 
-	fakesrc = '192.168.1.149'
+	fakesrc = '10.0.0.37'
 	server = '144.174.16.8'
 	device = 'wlp58s0'
 	data="\x17\x00\x03\x2a" + "\x00" * 4
