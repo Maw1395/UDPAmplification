@@ -5,7 +5,7 @@ http://opensysblog.directorioc.net/2013/04/sending-dns-request-with-spoofed-ip.h
 ## Presentation
 https://docs.google.com/presentation/d/1IBouiHUW7Ju7oiPXJ0vi3moHQ6HTGET3nnjAOgI4WFM/edit?usp=sharing
 ## Documentation
-https://docs.google.com/document/d/1SSB1Ppe9xc94s6B_l7HSN5T728ZThLkReXmYEEi9iRU/edit?usp=sharing
+http://ww2.cs.fsu.edu/~woodham/UDP
 ## Installation
 ```
 cd /tmp
